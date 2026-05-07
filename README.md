@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+<pre>
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║   $ whoami                                                ║
@@ -9,7 +9,7 @@
 ║   > Status: sempre aprendendo...                          ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
-```
+</pre>
 
 </div>
 
@@ -51,13 +51,13 @@ Otavio = {
 
 ## `> git log --oneline (vida além do terminal)`
 
-```
+<pre>
 a1b2c3d  🎵 ouvindo música enquanto debugo
 d4e5f6g  🎮 games como treino de raciocínio lógico
 h7i8j9k  ⚽ esportes pra resetar a mente
 l0m1n2o  🎬 filmes e séries pra inspirar criatividade
 p3q4r5s  📱 sempre de olho nas últimas em tech
-```
+</pre>
 
 ---
 
@@ -65,9 +65,9 @@ p3q4r5s  📱 sempre de olho nas últimas em tech
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Otavio-Lorenco&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Lorenco&layout=donut&theme=dark&hide_border=true" height="165"/>
 
 </div>
 
