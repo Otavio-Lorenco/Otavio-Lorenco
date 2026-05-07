@@ -1,1 +1,45 @@
-![header](https://raw.githubusercontent.com/Otavio-Lorenco/Otavio-Lorenco/main/header.svg)
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a2a4a;stop-opacity:1" />
+    </linearGradient>
+
+    <style>
+      .line1 { font: bold 36px 'Segoe UI', sans-serif; fill: #ffffff; }
+      .line2 { font: 16px 'Segoe UI', sans-serif; fill: #8b949e; }
+      .line3 { font: italic 15px 'Segoe UI', sans-serif; fill: #58a6ff; }
+
+      .line1 { animation: fadeUp 0.8s ease forwards; opacity: 0; }
+      .line2 { animation: fadeUp 0.8s ease 0.6s forwards; opacity: 0; }
+      .line3 { animation: fadeUp 0.8s ease 1.2s forwards; opacity: 0; }
+
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(12px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+
+      .cursor {
+        fill: #58a6ff;
+        animation: blink 1s step-start infinite;
+      }
+      @keyframes blink {
+        50% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bg)" rx="12"/>
+
+  <!-- Decorative left bar -->
+  <rect x="32" y="50" width="4" height="100" fill="#58a6ff" rx="2"/>
+
+  <!-- Text lines -->
+  <text x="56" y="100" class="line1">Otavio Lourenço 👋</text>
+  <text x="56" y="132" class="line2">Ciência da Computação | Data Engineering | Financial Sector</text>
+  <text x="56" y="162" class="line3">"A caminho do melhor!"</text>
+
+  <!-- Blinking cursor -->
+  <rect x="56" y="170" width="10" height="2" class="cursor"/>
+</svg>
