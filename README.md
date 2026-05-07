@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Otavio+Lourenço+👋;CS+Student+%7C+Data+Engineering;Mercado+Financeiro+%7C+GCP+%7C+Python;Sempre+aprendendo...+🌱" alt="Typing SVG" />
-
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Otavio%20Lourenço&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Data%20Engineering%20%7C%20Financial%20Sector&descAlignY=55&descSize=18)
 
 *"A caminho do melhor!"*
 
@@ -48,14 +46,10 @@ Estudante de **Ciência da Computação** com foco em **Engenharia de Dados**, d
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otavio-Lorenco&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Otavio-Lorenco)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Lorenco&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Otavio-Lorenco)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Otavio-Lorenco&theme=tokyonight&hide_border=true&locale=pt_BR)](https://github.com/Otavio-Lorenco)
 
 </div>
 
 ---
 
-<div align="center">
-  <sub>⚙️ construído com curiosidade, café e muita vontade de evoluir.</sub>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)
