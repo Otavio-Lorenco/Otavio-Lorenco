@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Otavio%20Lourenço&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ciência%20da%20Computação%20%7C%20Data%20Engineering%20%7C%20Financial%20Sector&descAlignY=55&descSize=18)
+![header](https://raw.githubusercontent.com/Otavio-Lorenco/Otavio-Lorenco/main/header.svg)
 
 *"A caminho do melhor!"*
 
