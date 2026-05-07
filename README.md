@@ -1,83 +1,56 @@
 <div align="center">
 
-<pre>
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   $ whoami                                                ║
-║   > Otavio Lourenço                                       ║
-║   > CS Student | Data Engineering | Financial Sector      ║
-║   > Status: sempre aprendendo...                          ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-</pre>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Otavio+Lourenço+👋;CS+Student+%7C+Data+Engineering;Mercado+Financeiro+%7C+GCP+%7C+Python;Sempre+aprendendo...+🌱" alt="Typing SVG" />
+
+<br/>
+
+*"A caminho do melhor!"*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-louren%C3%A7o/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olouremco@gmail.com)
 
 </div>
 
 ---
 
-## `> about_me.py`
+## 🧑‍💻 Sobre mim
 
-```python
-Otavio = {
-    "formação":    "Ciência da Computação 📚",
-    "foco":        "Data Engineering 🛠️",
-    "setor":       "Mercado Financeiro 💹",
-    "filosofia":   "Código limpo hoje, problema evitado amanhã.",
-    "modo":        "sempre em evolução 🌱",
-}
-```
+Estudante de **Ciência da Computação** com foco em **Engenharia de Dados**, desenvolvendo soluções com Python, SQL e tecnologias em nuvem no setor financeiro.
 
-> *"A caminho do melhor!"*
+- 🛠️ Focado em **Data Engineering** e pipelines de dados
+- ☁️ Trabalhando com **GCP** e ambientes cloud
+- 💹 Experiência com dados no **mercado financeiro**
+- 🌱 Sempre aprendendo e evoluindo
 
 ---
 
-## `> tech_stack.sh`
+## 🚀 Tech Stack
 
 **Dados & Cloud**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4479A1)
-![GCP](https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **Front-end**
 
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
-## `> git log --oneline (vida além do terminal)`
-
-<pre>
-a1b2c3d  🎵 ouvindo música enquanto debugo
-d4e5f6g  🎮 games como treino de raciocínio lógico
-h7i8j9k  ⚽ esportes pra resetar a mente
-l0m1n2o  🎬 filmes e séries pra inspirar criatividade
-p3q4r5s  📱 sempre de olho nas últimas em tech
-</pre>
-
----
-
-## `> stats --global`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Otavio-Lorenco&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otavio-Lorenco&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Otavio-Lorenco)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Lorenco&layout=donut&theme=dark&hide_border=true" height="165"/>
-
-</div>
-
----
-
-## `> connect --network`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/otavio-louren%C3%A7o/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Lorenco&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Otavio-Lorenco)
 
 </div>
 
