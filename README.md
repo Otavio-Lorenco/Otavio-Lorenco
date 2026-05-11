@@ -18,7 +18,7 @@
 Estudante de **Ciência da Computação** com foco em **Engenharia de Dados**, desenvolvendo soluções com Python, SQL e tecnologias em nuvem no setor financeiro.
 
 - 🛠️ Focado em **Data Engineering** e pipelines de dados
-- ☁️ Trabalhando com **GCP** e ambientes cloud
+- ☁️ Estudando **GCP** e ambientes cloud
 - 💹 Experiência com dados no **mercado financeiro**
 - 🌱 Sempre aprendendo e evoluindo
 
@@ -31,6 +31,10 @@ Estudante de **Ciência da Computação** com foco em **Engenharia de Dados**, d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/dbc040cd-e345-43fb-bf81-8ddef998946f" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3c3a6e46-87c9-4252-9817-8149553dcb58" />
+
+
 
 **Bibliotecas**
 
